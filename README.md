@@ -1,4 +1,4 @@
-#Welcome to Aman's Github
+# Welcome to Aman's Github
 - 👋 Hi, I’m @Aman Singh Bhogal
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning ...
